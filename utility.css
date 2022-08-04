@@ -1,0 +1,14 @@
+body{
+    /* background-color: #dbfaf4; */
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+}
+p{
+    color: #66BFBF;
+    margin: 0px;
+    font-size: 2rem;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    text-decoration: underline;
+}
